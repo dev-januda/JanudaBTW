@@ -19,11 +19,11 @@
  **<h3 align="left">📊 GitHub Stats:</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JanudaStack&theme=gotham&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&hide_border=false&custom_title=My+GitHub+Stats&rank_icon=github&number_format=short&text_bold=false&border_radius=5" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=JanudaStack&theme=gotham&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=195&border_radius=5&currStreakLabel=orange&fire=orange&ring=orange" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Real-JSON&theme=gotham&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&hide_border=false&custom_title=My+GitHub+Stats&rank_icon=github&number_format=short&text_bold=false&border_radius=5" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Real-JSON&theme=gotham&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=195&border_radius=5&currStreakLabel=orange&fire=orange&ring=orange" alt="GitHub streak Card" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JanudaStack&theme=gotham&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=false&border_radius=5" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Real-JSON&theme=gotham&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=false&border_radius=5" alt="GitHub top-langs Card" />
 </p>
 
